@@ -1,5 +1,4 @@
 package `Exercicio 2`
 
-fun main() {
-
+class Books {
 }
